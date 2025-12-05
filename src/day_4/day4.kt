@@ -3,7 +3,7 @@ package day_4
 import readFile
 
 fun main() {
-    val input = readFile("day_3/input.txt")
+    val input = readFile("day_4/input.txt")
     println(partTwo(parseInput(input)))
 }
 
