@@ -1,4 +1,4 @@
-package day_7
+package day_07
 
 import readFile
 

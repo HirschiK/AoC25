@@ -1,4 +1,4 @@
-package day_9
+package day_09
 
 import readFile
 import kotlin.math.abs

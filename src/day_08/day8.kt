@@ -1,4 +1,4 @@
-package day_8
+package day_08
 
 import readFile
 import kotlin.math.pow

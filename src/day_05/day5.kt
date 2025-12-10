@@ -1,4 +1,4 @@
-package day_5
+package day_05
 
 import readFile
 import java.math.BigInteger
